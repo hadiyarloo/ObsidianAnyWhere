@@ -1,8 +1,8 @@
 <p align="center"><img src="icon.png" alt="Obsidian Anywhere" width="128"></p>
 
-# Obsidian Anywhere
+# Obsidian AnyWhere
 
-Open Markdown files **and whole folders from anywhere on your disk** in Obsidian, without moving or copying them.
+Open Markdown files and folders from **anywhere** on your disk in [Obsidian](https://obsidian.md/), without **moving** or **copying** them.
 
 **Linux only.** Windows and macOS are not supported.
 
