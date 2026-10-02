@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-anywhere",
+  "name": "Obsidian Anywhere",
+  "version": "1.0.0",
+  "minAppVersion": "1.7.2",
+  "description": "Open Markdown files from anywhere on disk in Obsidian through temporary Vault symlinks, with tab focus, safe cleanup and diagnostics. Linux only.",
+  "author": "Hadi Yarloo",
+  "isDesktopOnly": true
+}
